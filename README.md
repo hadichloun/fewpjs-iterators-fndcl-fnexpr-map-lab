@@ -1,4 +1,4 @@
-# Iterator Drill: Map
+<!-- # Iterator Drill: Map
 
 ## Learning Goals
 
@@ -12,7 +12,7 @@ As developers, we find ourselves responsible for all sorts of common, but
 tedious, tasks, such as iterating over arrays. Although a `for` loop will work
 for these tasks, we can take advantage of a method like `map()` to save
 ourselves work and to organize and optimize our code, resulting in more readable
-and understandable functions.
+and understandable functions. -->
 
 ## Define How the `map()` Method Works
 
